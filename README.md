@@ -35,12 +35,7 @@ countUpAndDown(3) // should return "1 2 3 2 1"
 wordsWithA(['cat', 'rabbit', 'dog', 'frog']) // should return ['cat', 'rabbit']
 ```
 
-8.  Write a function that reverses a string 
-```
-reverseString('cat') // should return "tac"
-```
-
-9.  Write a function that returns the longest word in sentence 
+8.  Write a function that returns the longest word in sentence 
 ```
 longestWord("The cat in the house") // should return "house"
 ```
